@@ -1,4 +1,4 @@
-# Project-for-Human-Machine-Interaction
+# Project for Human Machine Interaction
 * University of Bolzano - Faculty of Computer Science
 * Developer Heider Jeffer
 * Supervisor Professor Gennari Rosella

@@ -14,3 +14,14 @@
 * Project PDF at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Project%20Lab%20Solutions%20by%20Heider%20Jeffer.pdf
 * Project Side at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Wald%20and%20Z%20Test%20Slide%20Presentation.pdf
 
+#  Wald and Z Test
+
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/1.PNG)
+
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/2.PNG)
+
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/3.PNG)
+
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/4.PNG)
+
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/5.PNG)

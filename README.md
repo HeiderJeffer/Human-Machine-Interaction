@@ -11,5 +11,7 @@
 * This document contains:
 * Wald and Z Test - A Good Example To Compute Interaction Between Human and Machines A Case Study with Facebook
 * The solutions of lab 6 and Lab7, SHMI Class 2016/2017.
-* Project PDF at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Project%20Lab%20Solutions%20by%20Heider%20Jeffer.pdf
+* 
+xfun::embed_file("https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Project%20Lab%20Solutions%20by%20Heider%20Jeffer.pdf")
+Project PDF at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Project%20Lab%20Solutions%20by%20Heider%20Jeffer.pdf
 * Project Side at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Wald%20and%20Z%20Test%20Slide%20Presentation.pdf

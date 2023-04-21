@@ -14,6 +14,29 @@
 * Project PDF at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Project%20Lab%20Solutions%20by%20Heider%20Jeffer.pdf
 * Project Side at: https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/Wald%20and%20Z%20Test%20Slide%20Presentation.pdf
 
+
+
+# HUMAN MACHINE INTERACTION (HMI)
+* During my master's studies in Computer science at UNIBZ, I did my project as a laboratory team member in HCI (Human-machine interaction) with my supervisor  Professor Gennari Rosella, with main research area Main Research Areas: Human-Computer Interaction, Interaction Design, Tangible Design, and Making Technology Enhanced Learning,  We did the following:
+•	From child data, we implement HCI models to process and extract child persona(s), Each student has analyzed one particular child. After discussing together, we decided on the criteria to split the two skeletons. (classifying and layering work has been done in the class together. The outcome is:
+Persona 1: (Child: Interests/activities, Social skills, Computer usage) VS Persona 2: (Child: Interests/activities, Social skills, Computer usage).
+•	Blank HTA: Simple Plan For Purchasing A Song
+•	HTA for Searching: Searching for a Safari Tech e-book At UniBZ Website
+•	Context Scenario: Underline, Explain, And Rewrite the Context Scenario.
+•	Data analysis: Highlight the Goal (persona’s main task), Examine the First-Level Tasks, and Build an HTA
+•	HTA Textual Analysis and Graphical Analysis
+•	Designing LEVEL #1, #2, and 3# Wireframe (web type prototype).
+•	Calculated confidence interval and discuss results
+•	Calculated the (likely average)
+•	Identifying the Distribution of the Data
+•	Calculate the critical value and degree of the freedom
+•	Designing (Usability Metrics and Analysis)
+•	Using the Adjusted Wald Method to compute the following values: (Best Estimate, MLE, LaPlace, Jeffrey's, and Wilson).
+•	Design a Matrix for Design Methods, Task Measure, Orders, and Page Styles.
+•	Design a model to identify the dissimilarity: cognitive walkthrough - carousel, the effort for the task - success on task, minimalism, aesthetics design wire-framing, and card sorting - tree sorting.
+•	Calculate the UX and struggle to end the task.
+
+
 #  Wald and Z Test
 
 ![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/1.PNG)

@@ -1,4 +1,4 @@
-# Human Machine Interaction
+# Seminars in Human Machine Interaction
 * University of Bolzano - Faculty of Computer Science
 * Developers:
 - Dmitry Chaltsev dchaltsev@unibz.it 

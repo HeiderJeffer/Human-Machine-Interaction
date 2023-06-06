@@ -1,4 +1,9 @@
 # Seminars in Human Machine Interaction
+
+ <body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Seminars-in-Human-Machine-Interaction/" alt = "Visitors-Counter"/>
+</body>
+
 * University of Bolzano - Faculty of Computer Science
 * Developers:
 - Dmitry Chaltsev dchaltsev@unibz.it 
